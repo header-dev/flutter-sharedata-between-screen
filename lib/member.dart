@@ -1,5 +1,4 @@
 import 'package:app1302/share.dart';
-import 'package:app1302/share_data.dart';
 import 'package:flutter/material.dart';
 
 class MemberPage extends StatefulWidget {
